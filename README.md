@@ -1,7 +1,7 @@
 # Docusaurus 教程网站完整搭建指南
 
 ## 1. 初始化项目
-
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/genway2021/MyDocker-docs)
 ```bash
 # 使用 npx 创建项目（推荐）
 npx create-docusaurus@latest my-tutorial-site classic
